@@ -18,4 +18,11 @@ Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
 
+int quoteint = i1 / i2;
+Console.WriteLine(quoteint);
+
+d1 = 6;
+double quotient2 = i1 / d1;
+Console.WriteLine(quotient2);
+
 
